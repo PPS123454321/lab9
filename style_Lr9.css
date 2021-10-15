@@ -1,0 +1,100 @@
+body{
+    margin: 0;
+    font-family: 'Amatic SC', cursive;
+}
+
+p{
+    margin: 0;
+}
+
+.page1{
+    background-color: #2C0707;
+    display: inline-flex;
+    width: 1519px;
+    height: 753px;
+}
+
+.h_and_roses{
+    padding-top: 80px;
+    padding-left: 80px;
+}
+
+.heading{
+    color: white;
+    font-weight: 700;
+    font-size: 96px;
+    border: 2px solid white;
+    padding: 5px;
+    text-align: center;
+}
+
+.whiteroses{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.photo1{
+    padding-left: 150px;
+    padding-bottom: 50px;
+}
+
+.page2{
+    display: inline-flex;
+    background-color: white;
+    width: 1519px;
+    height: 753px;
+}
+
+.photo2{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 80px;
+}
+
+.burgundyroses{
+    width: 392px;
+    height: 392px;
+    padding-top: 190px;
+
+}
+
+.text{
+    width: 500px;
+    font-size: 36px;
+    font-weight: 700;
+    color: #2C0707;
+    padding-top: 150px;
+    padding-left: 30px;
+    padding-right: 50px;
+}
+
+.page3{
+    background-color: #2C0707;
+    width: 1519px;
+    height: 753px;
+    display: inline-flex;
+}
+
+.photo3{
+    padding: 60px 60px;
+}
+
+.s_and_es{
+    padding-top: 220px;
+}
+
+.subscribe{
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.emblems{
+    display: inline-flex;
+    padding-top: 30px;
+}
+
+.vk{
+    padding: 5px;
+    margin-left: 20px;
+}
